@@ -3,7 +3,7 @@
 I'm looking for a job as a full stack developer.
 
 I'm updating my portfolio and currently improving the Trio (Trello) project I did with 2 partners.<br>
-I'm also working on additional (private) projects. So come back to see more updates.
+I'm also working on additional (private) projects. So come back again to see more updates.
 
 My current main stack includes: <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
