@@ -1,20 +1,42 @@
-### Hi there 👋 I'm Yael
+# 👋 I'm Yael Hazan
 
-I'm looking for a job as a full stack developer.
+**`Full-Stack / Frontend developer`**
 
-I'm updating my portfolio and currently improving the Trio (Trello) project I did with 2 partners.<br>
-I'm also working on additional (private) projects. So come back again to see more updates.
+I'm a Full-Stack / Frontend developer proficient in modern web technologies. Committed to end-to-end delivery of high-quality products. <br/>
+I'm bringing also 11 years of experience in QA & Automation, ensuring a comprehensive approach to software development. <br/>
+Eager to learn, contribute, and seeking a I'm a Full-Stack or Frontend position to leverage this unique blend of skills. 
 
-My current main stack includes: <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-and more<br>
+---
+### 🧰 Main Languages and Tools
 
-I'm learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and also doing my first steps developing a mobile app.
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
+<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
+<img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
+<img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" />
+<img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" />
+<img align="left" alt="NextJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" />
+<img align="left" alt="NodeJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" />
+<img align="left" alt="NestJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" />
+<img align="left" alt="Prisma" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="Prisma" />
+<img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+<img align="left" alt="MongoDB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" />
+<img align="left" alt="Figma" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" />
+<img align="left" alt="Storybook" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" title="Storybook" />
+<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
+<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" /> <!--black-->
+<img align="left" alt="Jira" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" />
+<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" />
+<br />
+
+#
+
+<!--### 📊 Stats
+![Yael's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaelih&show_icons=true&theme=radical&hide=stars)
+-->
+
+I'm currently collaborating to other repositories (some open source and some are private repos), but I hope also to add my own project soon.
+
+I'm also learning some new technologies from time to time. These days it's Dart and Flutter.
 
 
 <!--
